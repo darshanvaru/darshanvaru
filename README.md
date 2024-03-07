@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @darshanvaru
-- 👀 I’m interested in Android apps;
+- 👀 Android got my heart
 - beginer in github;
 
 <!---
