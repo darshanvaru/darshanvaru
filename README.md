@@ -1,4 +1,4 @@
-👨‍💻 Darshan Varu - Computer Engineering Student
+👨‍💻 Darshan Varu - Computer Engineering Student.
 🔐 Passionate about Cybersecurity and its crucial role in safeguarding digital systems. Continuously expanding my knowledge in this ever-evolving field.
 📱 Android Developer with a keen interest in building user-friendly and feature-rich mobile applications. Proficient in Java, and Android SDK.
 🎨 Skilled in UI/UX Design, ensuring a seamless and visually appealing experience for users.
