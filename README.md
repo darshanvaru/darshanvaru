@@ -1,11 +1,5 @@
 👨‍💻 Darshan Varu - Computer Engineering Student.
-🔐 Passionate about Cybersecurity and its crucial role in safeguarding digital systems. Continuously expanding my knowledge in this ever-evolving field.
-📱 Android Developer with a keen interest in building user-friendly and feature-rich mobile applications. Proficient in Java, and Android SDK.
-🎨 Skilled in UI/UX Design, ensuring a seamless and visually appealing experience for users.
-♟️ Avid Chess enthusiast. The game's strategic depth and problem-solving aspects resonate deeply with my interests.
-🌱 Currently pursuing a Bachelor's degree in Computer Engineering, honing my skills in programming, algorithms, and system design.
-📚 Passionate about learning and staying up-to-date with the latest trends and technologies in the software development realm.
-⚡ Looking to collaborate on challenging projects that push the boundaries of innovation and make a positive impact.
+👋 Hi there! I'm a passionate Flutter developer from India, dedicated to creating user-friendly, visually smooth apps. I’m currently working on projects like Quoterr, an app for delivering quotes on demand, and a direct market access app to support farmers. My approach centers on clean, effective error handling, intuitive animations, and immersive UI elements. I’m always exploring ways to deepen my understanding of data analysis and data visualization. Let’s build something amazing together!
 
 <!---
 darshanvaru/darshanvaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
